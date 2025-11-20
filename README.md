@@ -74,7 +74,7 @@ The model outputs 12 price reduction categories:
 - **Secondary**: Classification Accuracy
 - **Business**: Attendance Lift % and Revenue Impact
 
-## 📈 Expected Outcomes
+## Expected Outcomes
 
 ### Business Impact
 - **Attendance Increase**: 15-30% average increase in occupied seats
