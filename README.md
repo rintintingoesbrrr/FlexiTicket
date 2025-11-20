@@ -32,7 +32,7 @@ Output Layer (12 neurons) + Softmax
 **Loss Function**: Cross-Entropy Loss
 **Activation**: ReLU (hidden layers), Softmax (output)
 
-## 📊 Input Features
+## Input Features
 
 The model takes 5 normalized input features:
 
