@@ -4,6 +4,8 @@
 A Multi-Layer Perceptron (MLP) that uses cross-entropy loss for intelligent price calculations in cinema dynamic pricing systems, designed to maximize attendance while optimizing revenue through strategic price reductions.
 
 ![MLP working](/images/mlp_visualization.gif)
+![Main page](/images/dynamic.png)
+![Dynamic pricing](/images/homepage_flexiticket.png)
 
 ## Project Overview
 
